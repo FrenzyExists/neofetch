@@ -1895,6 +1895,7 @@ get_wm() {
                                -e orbital \
                                -e orbment \
                                -e perceptia \
+                               -e hikari \
                                -e rustland \
                                -e sway \
                                -e ulubis \
